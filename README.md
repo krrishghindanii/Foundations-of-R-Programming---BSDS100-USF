@@ -39,7 +39,7 @@ This book provides a comprehensive introduction to **R programming** tailored sp
 1. Clone or download this repository:
 
    ```bash
-   git clone https://github.com/your-username/r-programming-for-math-stats.git
+   git clone https://github.com/krrishghindanii/Foundations-of-R-Programming---BSDS100-USF
    ```
 2. Navigate through the chapters, available as `.Rmd` or `.pdf` files.
 3. Follow along with the examples in RStudio or your preferred R environment.
